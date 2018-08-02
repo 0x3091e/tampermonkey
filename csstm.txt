@@ -1,0 +1,37 @@
+var styleStr = `
+body,div,a,p,span{
+	margin: 0;
+	padding:0;
+}
+.shadeinf{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.5);
+	position: absolute;
+	z-index: 1;
+	display: none;
+}
+.logininf{
+	padding:10px;
+	border-radius: 10px;
+	width:300px;
+	height: 200px;
+	background: #fff;
+	position: absolute;
+	z-index: 2;
+	display: none;
+}
+
+.titleinf{
+	border-bottom: 1px #ccc solid;
+	text-align: center;
+	font-weight: bold;
+	padding:5px 0 10px 0;
+}
+`;
+var style = document.createElement('style');
+style.type = 'text/css';
+style.innerHTML = styleStr;
+document.getElementsByTagName('HEAD').item(0).appendChild(style);
+
+<div class="shadeinf"></div><div class="logininf"><p class="titleinf">弹出标题</p><p class="continf">弹出内容</p><button type="button" id="btninfclose">关闭</button></div><button id="btninf">登录</button>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>RunJS</title>
+		<script src="https://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+	</head>
+	<body>
+		<div>123
+			<p>aaa</p>
+		</div>
+		<div>123
+			<p>aaa</p>
+		</div>
+		<script type="text/javascript">
+		$(document).ready(function(){
+			function traversalIteration(node){
+			    var array = [], i = 0,k = 0,elementCount = 0, len = 0, childNodes,item;
+			    while(node != null){
+					console.log(node.tagName);
+					childNodes = node.childNodes;
+					len = node.childNodes.length;
+					elementCount = 0;
+					if(len > 0){
+					  for(i = 0; i < len; i++){
+						item = childNodes[i];
+						if(item.nodeType === 1){
+						  elementCount++;
+						  node = item;
+						  break;
+						}
+					  }
+					  for(k = len -1 ; k > i; k--){
+						item = childNodes[k];
+						if(item.nodeType == 1){
+						  elementCount++;
+						  array.push(item);
+						}
+					  }
+					  if(elementCount < 1){
+						node = array.pop();
+					  }
+					}else{
+					  node = array.pop();
+					}
+			    }
+			}
+			traversalIteration(document.body);
+		});
+		</script>
+</body>
+	
+</html>

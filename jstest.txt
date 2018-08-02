@@ -1,0 +1,24 @@
+$(document).ready(function(){
+	var s1 = "xxx 123-45-6 as 222-33-4ttx";
+	//var pattern = new RegExp("\d{2,5}-\d\d-\d","g");
+	var pattern = /\d{2,5}-\d\d-\d/g;
+	//var pattern = new RegExp("\\d");
+	var matches = pattern.exec(s1);
+	
+	alert(matches);
+});
+$(document).ready(function(){
+	var s1 = "xxx 123-45-6 as 222-33-4 ttx";
+	//var pattern = new RegExp("\d{2,5}-\d\d-\d","g");
+	var pattern = /\d{2,5}-\d\d-\d/gim;
+	//var pattern = new RegExp("\\d");
+	var matches = pattern.exec(s1);
+	var matches = pattern.exec(s1);
+	//alert(matches.index);
+	//alert(matches.input);
+	//alert(matches[0]);
+	//alert(matches[1]);
+	var res1 = s1.match(/\d{2,5}-\d\d-\d/gim);
+	//alert(res1);
+	alert(res1[1]);
+});

@@ -1,0 +1,52 @@
+<li class="li_product_attr"><a href=""><sup class="li_product_attr_name">xxx</sup></a></li>
+
+$("#cnp_chemical.row ul").append('<li class="li_product_attr"><a href=""><sup class="infclass li_product_attr_name">点击查询</sup></a></li>')
+
+$("#cnp_chemical.row ul").append('<li class="li_product_attr">点击查询</a></li>')
+//添加按钮
+$("#cnp_chemical.row ul :contains('16297-14-6')").first().parent().append('<button class="li_product_attr">点击查询</button>')
+
+$('.infclass').live('click', function() {
+  alert("Live handler called."); 
+});
+
+
+$("body").append('<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button><h4 class="modal-title" id="myModalLabel">模态框（Modal）标题</h4></div><div class="modal-body">按下 ESC 按钮退出。</div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">关闭</button></div></div></div></div>');
+
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel">模态框（Modal）标题</h4></div><div class="modal-body">按下 ESC 按钮退出。</div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">关闭</button></div></div></div></div>
+
+//遍历数组
+$(document).ready(function(){	
+	var arr = [1,2,3];
+	for(var i=0;i<arr.length;i++){
+    //alert(arr[i]);
+	}
+	$.each(arr,function(key,value){
+		alert("arr :" + key + '-' + value);
+	})
+  
+});
+
+$(".infclass").first().attr("value")
+
+//数组去重
+Array.prototype.unique3 = function(){
+	 var res = [];
+	 var json = {};
+	 for(var i = 0; i < this.length; i++){
+		if(!json[this[i]]){
+		 res.push(this[i]);
+		 json[this[i]] = 1;
+		}
+	 }
+	 return res;
+	}
+	 
+	
+	var arr = [112,112,34,'你好',112,112,34,'你好','str','str1'];
+	arr = arr.unique3();
+	alert(arr);
+
+	
+	http://127.0.0.1:8000/util/tm_script/cas_query.user.js

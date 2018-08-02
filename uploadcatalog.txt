@@ -1,0 +1,1209 @@
+
+
+
+    
+
+
+
+
+
+    
+        
+            
+        
+        
+            
+        
+        
+        
+            
+                
+                LabNetwork
+            
+        
+        
+    
+    
+
+    
+    
+        
+        
+            
+                
+                
+            
+            
+        
+        
+        
+
+        
+        
+            
+                
+                    语言
+                
+                
+                    
+                        
+                            英文(English)
+                            中文(Chinese)
+                        
+                    
+                
+            
+
+            
+            
+                
+                    PanJin Infinity Scientific Co. Ltd.,
+                
+            
+
+            
+            
+                
+                    biz2@infsci.com
+                
+            
+            
+                
+                    Logout
+                
+            
+        
+
+        
+        
+            
+                
+                    
+                        
+                        Notifications
+                        
+                    
+                
+            
+        
+    
+
+
+
+    
+        
+
+
+
+  .menu-icon {
+    color: #67AEF7;
+  }
+
+
+  
+    
+      
+      
+        
+          
+                       
+                          
+                       
+          
+          
+                    
+                      
+                        PanJin Infinity Scientific Co. Ltd.,
+                        
+                      
+                    
+          
+          
+          
+            
+              Logout
+            
+          
+          
+        
+        
+      
+      
+
+      
+      
+        
+          
+                        产品管理
+          
+
+          
+          
+            
+              
+                
+                价格有效期
+              
+            
+          
+          
+          
+            
+                            
+                                
+                                
+                            
+              
+              化学品
+            
+            
+              
+              
+                产品上传
+              
+              
+                在线编辑
+              
+              
+              
+                产品下架
+              
+              
+            
+          
+
+          
+          
+            
+              
+                                
+                                  
+                                  
+                                
+                
+                耗材
+              
+              
+                
+
+                  产品上传
+                
+                
+                  在线编辑
+                
+                
+              
+            
+          
+
+          
+          
+            
+              
+                                
+                                    
+                                    
+                                
+                
+                生物
+              
+              
+                
+                  产品上传
+                
+                
+                  在线编辑
+                
+                
+              
+            
+          
+          
+
+          
+          
+            订单与询单
+          
+          
+            
+                            
+                              
+                              
+                            
+              
+              订单
+            
+            
+              
+                
+                  
+                    我的任务
+                  
+                
+              
+              
+                
+                  
+                    我的Wuxi任务
+                  
+                
+              
+              
+                
+                  订单跟踪
+                
+              
+            
+          
+          
+            
+                            
+                              
+                              
+                            
+              
+              询单
+            
+            
+              
+                
+                  化学品询单
+                
+              
+              
+                
+                  
+                    化学品批量询价
+                  
+                
+              
+
+              
+              
+                
+                  耗材和生物询单
+                
+              
+            
+            
+          
+
+          
+          
+
+          
+          
+          
+            文档管理
+          
+          
+            
+                            
+                              
+                              
+                            
+              
+              用户手册
+            
+            
+              
+              
+                
+                  使用界面tips
+                
+              
+                
+                  供应商使用指南视频20180308
+                
+              
+                
+                  询单管理-化学 10.12
+                
+              
+                
+                  供应商评级 8.11
+                
+              
+                
+                  目录管理-化学 3.9
+                
+              
+                
+                  目录管理-耗材生物 3.9
+                
+              
+                
+                  致供应商-必读
+                
+              
+                
+                  览博网在线报价培训_耗材生物
+                
+              
+                
+                  订单管理180706
+                
+              
+            
+          
+
+          
+          
+        
+      
+      
+    
+  
+
+
+        
+            
+
+
+
+    
+    
+        
+            化学品
+        
+        
+            
+                产品编号:
+                
+                
+            
+            
+                CAS:
+                
+                
+            
+            
+                MDL:
+                
+                
+            
+        
+    
+
+    
+    
+        
+        
+        
+            
+                
+                    
+                        销售中
+                        
+                        7669
+                        0
+                        /
+                        
+                        22790
+                        0
+                    
+                
+                
+                    
+                        已下架
+                        
+                        7669
+                        0
+                        /
+                        
+                        22790
+                        0
+                    
+                
+                
+                    
+                        
+                        产品数
+                        
+                        包装数
+                    
+                
+            
+        
+        
+            
+                
+                    
+                        
+                            
+                            只显示已上架的包装
+                        
+                        
+                    
+                
+                
+            
+
+            所有的产品信息将稍后通过邮件形式发送至您的邮箱！
+
+            
+                
+                    
+                    
+                        
+                        产品编号
+                        英文名
+                        中文名
+                        CAS
+                        MDL
+                        纯度
+                        产品库存
+                        包装信息
+                        全部信息
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H42526
+                        2,4,6-Triisopropylphenylmagnesium bromide
+                        2,4,6-三异丙基苯基溴化镁
+                        
+                        MFCD11553362
+                        0.5 M solution in THF, SpcSeal
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H14436
+                        iodo(3,3,3-trifluoropropyl)magnesium
+                        3,3,3-三氟丙基碘化镁
+                        
+                        MFCD99990002
+                        0.5 M solution in 2-Me-THF, SpcSeal
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H19137
+                        tert-buthylmagnesium bromide
+                        叔丁基溴化镁
+                        
+                        MFCD99990003
+                        0.5 M solution in THF, SpcSeal
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H41776
+                        MO源钢瓶
+                        MO源钢瓶
+                        
+                        MFCD99999999
+                        200ml装
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H31421
+                        双（1,3-二甲基环戊二烯）二甲基锆
+                        双（1,3-二甲基环戊二烯）二甲基锆
+                        
+                        MFCD99999999
+                        98%
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H38762
+                        Palladium(II)
+                        硝酸钯(II)
+                        
+                        MFCD00011169
+                        99.9% (metals basis), Pd 39% min
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H72217
+                        Tris(cyclopentadienyl)scan
+                        三（环戊二烯）钪
+                        
+                        MFCD99999999
+                        (99.9%-Sc) (REO)
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H38876
+                        Tris[N,N-bis(trimethylsilyl)amide]Ytterbium(III)
+                        三[N,N-双(三甲基甲硅烷基)酰胺]镱
+                        
+                        MFCD99999999
+                        98%
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H14540
+                        Tris[N,N-bis(trimethylsilyl)amide]aluminum(III)
+                        三[N,N-双(三甲基硅烷)胺]铝(III)
+                        
+                        MFCD99999999
+                        98%
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                        H77349
+                        Tris(N,N-di-i-propylacetamidinato)lutetium(III)
+                        Tris(N,N-di-i-propylacetamidinato)lutetium(III)
+                        
+                        MFCD99999999
+                        99% ( 99.99 % - Lu)
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                            
+                                
+                                    展开
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                    
+                    
+                
+            
+
+            
+                
+                    
+                        
+                        全选当前页
+                    
+                    
+                        下架
+                    
+                    
+                    
+                
+            
+
+            
+    
+        
+            
+                 < 
+            
+            
+                1
+            
+                2
+            
+                3
+            
+                4
+            
+                5
+            
+            
+                 > 
+            
+            跳至
+            
+                
+            
+            页
+            ,共767页
+        
+
+        
+            显示列表数:
+            
+                 10 
+            
+            
+                 20 
+            
+            
+                 30 
+            
+        
+    
+
+
+        
+    
+
+
+    
+        
+            
+                ×
+                编辑产品信息
+            
+            
+                
+                    
+                        
+                            产品信息
+                        
+                        
+                            
+                                
+                                    产品编号*
+                                    
+                                
+                            
+                            
+                                
+                                    英文名*
+                                    
+                                
+                            
+                            
+                                
+                                    中文名
+                                    
+                                
+                            
+                        
+                        
+                            
+                                
+                                    CAS
+                                    
+                                
+                            
+                            
+                                
+                                    MDL
+                                    
+                                
+                            
+                            
+                                
+                                    UN
+                                    
+                                
+                            
+                        
+                        
+                            
+                                
+                                    纯度
+                                    
+                                
+                            
+                            
+                                
+                                    产品种类
+                                    Templates/ScaffoldsAmino Acids & PeptidesBuilding BlocksScreening Library CompoundsFragment Library CompoundsReagent ServicesNatural ProductsImpurity
+                                
+                            
+                        
+                        
+                            
+                                
+                                    现货最小发货天数
+                                    
+                                
+                            
+                            
+                                
+                                    现货最大发货天数
+                                    
+                                
+                            
+                            
+                                
+                                    延期交货时间
+                                    
+                                
+                            
+                        
+                        
+                            
+                                
+                                    发货额外描述信息
+                                    
+                                
+                            
+                            
+                                
+                                    IO状态
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                关闭
+                提交
+            
+        
+    
+
+
+
+    
+        
+            
+                ×
+                提示
+            
+            
+                
+                数据发生异常
+                
+                
+                
+                
+            
+            
+                确认
+            
+        
+    
+
+
+        
+    
+
+
+
+    
+        
+        
+        
+        
+        
+    
+    
+        沪ICP备10016157号
+    
+    
+        服务条款 
+           |   
+        隐私政策
+    
+
+
+
+    
+        
+
+            
+                ×
+                选择公司
+            
+
+            
+                
+                    
+                        
+                            
+                            
+                                
+                            
+                        
+                    
+
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                        WuXi AppTec
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Pharmablock
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Bide
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Titan
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Accela
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        WHmall
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Nuohey
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        9Ding
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Highfine
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Aladdin
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Yurlic
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Ouhe
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        StruChem
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Sigma
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        JKBeijing
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        JKShanghai
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Coolpharm
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Creasyn
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Scipharmacn
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        BePharm
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Rainbow
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Shentuo
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        ChemBridge
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        Chemexpress
+                                    
+                                
+                            
+                                
+                                    
+                                        
+                                        AOBChem
+                                    
+                                
+                            
+                        
+                    
+                
+
+            
+
+            
+                清除
+                保存
+                取消
+            
+
+
+        
+    
+
+
+
+
+
+window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"a2876d6208","agent":"","beacon":"bam.nr-data.net","applicationTime":8,"applicationID":"44179857","transactionName":"NFUDYkUDWRVXBUIKDg0fMkZFC1kBdQlYFxMMXA1TRU1HRh4hczdI","queueTime":0}
+
