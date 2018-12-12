@@ -4,5 +4,6 @@
 
 
 print 'test'
+print 'test'
 
 
