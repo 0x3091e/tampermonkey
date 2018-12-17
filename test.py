@@ -23,5 +23,6 @@ print 'tt'
 print 'tt'
 print 'tt'
 print 'tte'
-
+print 'tte'
+print 1
 
