@@ -24,8 +24,10 @@ print 'tt'
 print 'tt'
 print 'tte'
 print 'tte'
-print 1
+print 2
 print 'dev2'
+
+print 'dev3'
 
 print 'new1'
 print 'dev'
